@@ -1,4 +1,4 @@
-# AI Question Interview
+# AI-MLDS Inquisitor: A Fully Automated Interviewer Web Application
 
 ## Overview
 The AI Question Interview module is a virtual interviewing system designed to conduct interviews with candidates using a database of pre-defined questions tailored to the company's requirements. Leveraging advanced Natural Language Processing (NLP) algorithms, the system analyzes candidate responses, evaluates communication skills, technical knowledge, and overall suitability for the role.
